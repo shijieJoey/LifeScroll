@@ -1,0 +1,41 @@
+-- Record
+
+- Record financial information
+
+1. bank account information
+    a. I opened a Wells Fargo bank account. I need to be able to record my online banking username, password, security question, account personal information
+    recovery email information. And also bank account number, routing number, current balance.
+    b. I need to be able to update the password, security question, recovery email information.
+    c. I need to be able to record my passwords, security questions, and also other changed detials about this account in history
+2. credit card information
+    a. I opened a Wells Fargo credit card. I need to be able to store credit card information.
+    b. I need to be able to update my credit card transaction
+    c. I need to be able to update my credit card information
+3. financial loan information (including house loan, auto loan, and personal loan)
+    a. I financied a new car. I need to be able to record my financial information
+    b. I need to be able to update my payments
+    c. I need to be able to set up monthly automated payments
+    d. I need to be able to modify the credit card or bank account balance by paying the payments
+4. daily transaction information
+    a. I need to be able to add details about my daily transaction(including transaction amount, transaction type, transaction reason)
+    b. I need to be able to associate the daily transaction to the credit card or bank account on file
+5. investment information
+    a. I need to be able to record investment information like stocks.
+6. personal assets information
+    a. I need to be able to record assets I bought. 
+
+- Record personal information in real world
+
+- Record personal information in virtual world
+
+- Record personal income and tax information
+
+- Record lifetime big memories
+
+- Record personal life decision
+
+- Record personal thinking
+
+- Record family information
+
+-- Review

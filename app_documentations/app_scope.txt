@@ -1,0 +1,27 @@
+- front-end app to allow users to action
+
+- back-end service to provide API used by front-end app or web page, and ability to access and modify the data in database
+
+- database to store data
+
+
+
+
+---------
+front-end
+---------
+React JS
+Java
+
+
+
+---------
+back-end
+---------
+Sprint Java application
+
+
+---------
+database
+---------
+MySQL
